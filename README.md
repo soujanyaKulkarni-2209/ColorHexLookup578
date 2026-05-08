@@ -47,18 +47,18 @@ http://localhost:8080/ColorHexLookup/
 
 
 
-### 🔹 Output Page - Red Colour
+### 🔹 Output Page - Blue Colour
 
 <img width="1845" height="962" alt="screenshort4" src="https://github.com/user-attachments/assets/b7833311-22e8-40e9-a35b-2aac25ce0080" />
 
 
 
-### 🔹 Input Form with Blue Colour
+### 🔹 Input Form with red Colour
 
 <img width="1912" height="876" alt="scrrenshort1" src="https://github.com/user-attachments/assets/e4423201-747e-4a91-8a9b-0beec6a01f5b" />
 
 
-### 🔹 Output Page - Blue Colour
+### 🔹 Output Page - red Colour
 
 <img width="1902" height="966" alt="scrrenshort2" src="https://github.com/user-attachments/assets/b114233a-8a91-4f76-9557-8855fb3974a3" />
 
